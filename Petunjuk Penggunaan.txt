@@ -1,0 +1,6 @@
+Petunjuk Penggunaan
+1. Letakkan Folder ini di xampp/htdocs
+2. Ubah folder vendors menjadi vendor
+3. import database ke dbms
+4. sesuaikan nama db dengan konfigurasi database di application/config/database
+5. Jalankan di browser
